@@ -1,0 +1,501 @@
+age,blood pressure,calcium,cholesterol,hemoglobin,height,potassium,profession,sarsaparilla,smurfberry liquor,smurfin donuts,vitamin D,weight,img_filename
+176,98.57,2.61,96.1,16.27,7.7,4.93,services,High,Moderate,Low,25.84,83.61,heart_0.png
+136,109.49,2.51,71.83,16.46,6.63,4.54,manufacturing,Very high,Very high,Very low,29.27,83.77,heart_1.png
+101,99.78,2.2,122.51,10.77,7.96,4.25,ressource extraction,Low,Moderate,Very high,22.82,118.53,heart_2.png
+121,94.13,2.7,91.17,11.23,8.26,4.15,ressource extraction,Low,Moderate,High,29.56,112.01,heart_3.png
+115,99.46,2.71,115.56,13.01,8.13,4.36,services,Low,Moderate,Very high,30.4,133.8,heart_4.png
+188,156.25,2.22,156.97,13.82,7.49,4.92,administration and governance,Moderate,High,Very high,34.41,142.96,heart_5.png
+230,133.93,2.55,124.15,13.94,7.55,3.97,ressource extraction,Low,Very high,Moderate,30.2,108.75,heart_6.png
+114,100.41,2.52,69.77,12.49,7.66,5.48,food production,Low,Moderate,High,35.6,109.86,heart_7.png
+49,93.74,2.43,136.06,12.78,7.65,3.61,administration and governance,Moderate,Moderate,High,39.51,119.74,heart_8.png
+94,109.7,2.18,135.12,12.45,7.82,4.62,food production,Low,Moderate,Moderate,27.71,92.71,heart_9.png
+165,112.46,2.86,110.91,13.57,8.62,3.43,ressource extraction,Very low,High,Very high,25.19,134.34,heart_10.png
+54,109.62,2.66,133.2,13.5,7.7,4.04,administration and governance,High,Moderate,Low,29.51,94.48,heart_11.png
+155,110.59,2.23,117.59,12.98,7.05,4.74,food production,High,Moderate,Moderate,35.11,86.48,heart_12.png
+124,104.98,2.84,89.28,10.96,7.96,3.67,craftsmanship,Very low,Low,Very high,26.9,120.05,heart_13.png
+76,97.51,2.43,92.33,15.13,7.64,3.7,craftsmanship,Moderate,Low,Very high,20.92,99.57,heart_14.png
+192,137.61,2.37,136.24,15.57,7.39,3.77,manufacturing,Very low,High,Very high,28.72,130.53,heart_15.png
+112,107.76,2.54,81.5,12.51,8.15,3.7,food production,High,Moderate,Very low,30.45,82.75,heart_16.png
+90,91.11,2.43,117.53,15.72,7.97,4.26,food production,Low,Moderate,Very high,20.05,136.04,heart_17.png
+86,103.55,2.31,69.51,14.13,7.79,5.22,craftsmanship,Low,Moderate,High,31.46,98.78,heart_18.png
+99,149.87,2.53,168.4,14.83,7.56,4.7,food production,Moderate,High,Very high,31.62,108.35,heart_19.png
+185,115.24,2.65,126.62,14.6,7.35,5.55,services,Very low,Moderate,Low,32.9,99.41,heart_20.png
+127,109.86,2.21,48.41,13.77,6.89,4.83,ressource extraction,Very low,High,High,33.01,100.21,heart_21.png
+133,128.85,2.08,160.28,12.15,7.87,4.47,manufacturing,Low,Very high,High,40.22,119.44,heart_22.png
+143,102.99,2.28,108.39,13.04,7.19,4.32,craftsmanship,Low,Moderate,Moderate,39.76,86.75,heart_23.png
+128,96.82,2.5,109.86,15.0,8.16,4.58,food production,Moderate,Moderate,Very high,27.71,127.45,heart_24.png
+177,111.64,2.28,115.23,11.59,8.17,4.11,manufacturing,Very low,Very high,Very high,21.17,126.37,heart_25.png
+142,104.94,2.29,121.87,14.67,8.0,5.02,food production,Very high,Moderate,Very low,33.75,108.16,heart_26.png
+86,115.34,2.55,119.97,15.38,7.39,4.4,services,High,Very high,Moderate,28.38,95.56,heart_27.png
+191,123.43,2.39,103.21,12.56,8.05,5.27,ressource extraction,Very high,Very high,High,31.55,106.43,heart_28.png
+66,102.29,2.5,101.08,15.08,7.51,4.96,ressource extraction,Very high,Low,Very low,24.82,99.24,heart_29.png
+51,120.07,2.16,143.98,12.82,7.62,4.03,food production,Very low,High,Moderate,33.63,112.23,heart_30.png
+136,94.69,2.52,97.57,12.82,8.04,3.99,food production,Very low,Very low,High,30.99,95.48,heart_31.png
+69,127.32,2.54,146.88,13.74,7.46,4.39,services,Very low,Very high,High,29.59,123.13,heart_32.png
+74,102.46,2.78,132.27,14.32,7.99,4.64,services,Low,Moderate,Low,34.04,96.67,heart_33.png
+199,115.77,2.15,119.15,14.06,7.64,4.05,food production,Low,Very low,Very high,36.93,110.2,heart_34.png
+164,125.24,2.42,146.48,14.77,7.17,3.61,administration and governance,Low,Very low,Very low,27.48,110.13,heart_35.png
+151,122.96,2.41,40.63,12.63,7.92,4.8,ressource extraction,Very high,Very high,Moderate,28.83,105.56,heart_36.png
+90,106.34,2.64,128.16,15.93,7.92,4.07,food production,High,Low,Moderate,29.2,94.13,heart_37.png
+137,118.09,2.47,148.74,16.73,8.21,4.93,manufacturing,Very low,Moderate,Moderate,32.3,119.13,heart_38.png
+57,131.71,2.69,129.71,12.92,7.98,3.11,craftsmanship,Very low,Moderate,Very high,38.03,140.51,heart_39.png
+99,95.52,2.07,75.57,14.21,7.28,4.22,food production,Very high,Very high,Moderate,25.77,97.37,heart_40.png
+208,116.65,2.21,89.64,13.38,7.72,3.89,craftsmanship,Moderate,High,Very high,22.67,125.28,heart_41.png
+173,116.42,2.22,127.33,15.47,7.57,4.59,manufacturing,Low,Low,High,29.3,103.6,heart_42.png
+142,135.34,2.47,149.43,16.7,7.82,4.28,administration and governance,Very low,Moderate,Moderate,26.36,135.34,heart_43.png
+227,137.21,2.56,72.31,13.72,8.23,3.06,ressource extraction,Very low,Moderate,High,27.04,109.09,heart_44.png
+128,107.35,2.42,117.0,12.29,8.12,5.39,ressource extraction,Very high,Very high,Moderate,27.29,112.16,heart_45.png
+161,114.39,2.73,162.03,14.39,7.4,5.09,food production,Very low,Moderate,High,31.04,101.09,heart_46.png
+115,107.18,2.47,117.71,14.22,7.57,4.78,food production,Very low,High,Very high,24.55,123.46,heart_47.png
+117,102.41,2.49,112.16,14.84,7.23,3.97,craftsmanship,Very high,Moderate,Moderate,25.43,101.63,heart_48.png
+165,105.55,2.5,97.13,11.8,7.78,4.16,craftsmanship,Very high,High,Moderate,32.42,125.14,heart_49.png
+99,108.59,2.51,121.26,12.74,7.76,4.46,services,Low,Very high,High,29.64,106.22,heart_50.png
+69,108.38,2.76,98.12,12.95,7.12,3.26,food production,Low,Moderate,Moderate,24.93,97.77,heart_51.png
+167,122.27,2.45,137.69,14.06,7.42,4.26,services,Very high,Very low,Low,28.14,103.05,heart_52.png
+221,137.61,2.44,95.51,12.63,7.22,3.85,food production,Low,Very high,Moderate,27.67,106.6,heart_53.png
+190,106.99,2.47,90.06,10.12,8.11,3.34,services,Very high,Very low,Very low,34.98,101.7,heart_54.png
+136,98.44,2.77,110.3,13.08,7.58,5.04,ressource extraction,Low,Low,Very high,26.16,106.55,heart_55.png
+77,93.7,2.35,99.72,12.61,7.54,5.03,services,Very high,Moderate,Moderate,31.09,107.41,heart_56.png
+108,106.57,2.51,125.66,9.52,7.55,4.76,craftsmanship,Low,Very high,High,23.64,91.17,heart_57.png
+163,109.44,2.5,102.35,12.91,7.62,4.57,food production,Very low,High,Moderate,23.79,96.69,heart_58.png
+185,125.78,2.38,113.84,13.92,7.38,3.9,services,Very low,Low,Very high,31.19,140.08,heart_59.png
+146,104.03,2.52,147.45,13.03,7.52,4.93,administration and governance,Moderate,Low,Very high,32.45,134.79,heart_60.png
+212,140.27,2.44,134.0,12.91,6.94,4.66,administration and governance,Moderate,Very high,High,26.99,95.42,heart_61.png
+170,107.59,2.45,114.74,14.5,7.49,3.69,ressource extraction,Very high,Very high,Very low,28.17,82.09,heart_62.png
+152,112.01,2.31,131.24,13.7,7.5,4.67,administration and governance,Very high,Moderate,Moderate,30.08,101.38,heart_63.png
+135,105.79,2.68,87.67,14.24,7.26,3.37,manufacturing,Very high,Moderate,Very low,28.38,109.17,heart_64.png
+164,108.41,2.31,94.92,11.18,7.47,4.14,ressource extraction,Low,Moderate,High,23.9,98.48,heart_65.png
+85,99.98,2.54,97.87,14.5,7.38,4.47,craftsmanship,High,Low,High,35.63,102.49,heart_66.png
+131,106.91,2.32,71.6,13.57,8.33,3.2,food production,Very low,High,Very high,31.08,139.18,heart_67.png
+59,101.12,2.14,122.76,12.69,7.68,4.08,food production,High,Low,Moderate,33.17,126.74,heart_68.png
+33,91.24,2.7,116.69,11.49,7.04,3.43,ressource extraction,Low,Moderate,Moderate,24.32,88.76,heart_69.png
+99,97.6,2.58,92.07,13.82,7.17,4.49,ressource extraction,Low,Very low,Moderate,25.87,76.41,heart_70.png
+138,126.87,2.34,134.17,13.17,6.62,3.94,food production,Low,Low,Very high,26.39,122.42,heart_71.png
+104,114.69,2.45,98.17,14.83,7.35,5.42,ressource extraction,Very low,High,High,36.47,100.35,heart_72.png
+98,94.02,2.28,88.24,14.87,7.46,4.62,food production,Low,Low,High,33.97,81.99,heart_73.png
+172,107.68,2.03,124.71,15.1,7.96,3.49,services,Low,High,Low,37.01,106.19,heart_74.png
+172,131.37,2.38,109.73,15.23,6.9,4.79,manufacturing,Low,Moderate,Moderate,30.53,114.26,heart_75.png
+67,97.23,2.65,106.76,13.43,8.05,5.46,ressource extraction,Very high,Low,Very low,26.5,83.1,heart_76.png
+153,115.38,2.94,108.03,11.86,8.05,3.83,services,Moderate,Very high,Very high,29.09,144.43,heart_77.png
+77,92.75,2.61,104.02,14.51,8.15,4.55,ressource extraction,Very low,Very low,Very high,31.19,107.88,heart_78.png
+199,128.14,2.62,142.58,12.64,7.09,3.6,services,Low,Moderate,Very high,25.92,147.76,heart_79.png
+109,116.23,2.45,145.15,10.36,7.28,4.17,craftsmanship,High,Moderate,High,36.14,117.83,heart_80.png
+144,90.22,2.45,101.72,14.4,8.01,4.68,manufacturing,Moderate,Moderate,High,25.17,95.27,heart_81.png
+135,106.71,2.33,109.74,15.52,8.05,3.54,ressource extraction,High,High,High,34.36,102.83,heart_82.png
+72,98.18,2.23,134.54,16.55,8.13,3.98,food production,Very high,Moderate,Low,31.84,99.78,heart_83.png
+64,121.28,2.41,90.31,11.65,7.56,4.87,services,Low,Very high,High,25.09,125.17,heart_84.png
+173,115.43,2.7,98.49,13.41,8.04,4.01,food production,Moderate,Very high,Very low,20.06,98.11,heart_85.png
+191,121.55,2.17,102.59,11.34,8.33,3.5,manufacturing,Low,Moderate,Very high,27.92,145.61,heart_86.png
+160,111.0,2.33,120.55,16.97,7.27,4.44,administration and governance,Low,Very low,Low,34.64,75.75,heart_87.png
+158,105.45,2.57,107.56,9.61,7.09,4.91,manufacturing,Moderate,Moderate,Very low,31.33,92.59,heart_88.png
+161,103.15,2.44,106.98,14.25,7.7,4.33,services,Very low,Moderate,Very high,23.08,123.22,heart_89.png
+104,100.47,2.6,131.09,15.15,7.94,4.74,food production,High,Moderate,Low,32.47,95.72,heart_90.png
+41,105.03,2.72,91.59,14.32,7.59,3.31,food production,Very high,High,Very low,37.7,92.88,heart_91.png
+79,106.86,2.54,117.73,15.04,8.13,3.02,ressource extraction,Low,High,Very low,32.65,118.17,heart_92.png
+176,129.67,2.31,136.67,12.52,7.47,4.29,food production,Low,Very high,Very high,38.43,114.51,heart_93.png
+129,99.94,2.22,113.19,16.15,7.5,4.8,ressource extraction,High,Very low,Very low,26.33,111.28,heart_94.png
+167,96.59,2.82,126.23,14.96,7.35,3.66,manufacturing,Low,High,Moderate,29.3,109.8,heart_95.png
+79,90.89,2.5,112.83,11.96,8.08,4.44,food production,Very high,Very low,Low,28.43,118.29,heart_96.png
+119,110.0,2.64,96.55,14.36,7.66,3.52,services,Very low,Moderate,Very high,35.29,124.74,heart_97.png
+133,121.04,2.44,153.22,14.59,7.71,5.05,craftsmanship,Very low,Very high,Very high,26.11,134.4,heart_98.png
+135,147.07,2.05,185.2,12.98,6.88,3.32,food production,Moderate,High,High,23.01,96.57,heart_99.png
+139,101.0,2.68,143.07,14.03,7.74,4.17,administration and governance,Low,Moderate,Moderate,35.7,105.06,heart_100.png
+40,132.9,2.48,116.14,15.43,7.87,2.63,services,Low,Low,High,27.73,142.54,heart_101.png
+161,111.02,2.76,89.23,12.0,7.81,5.06,ressource extraction,Very low,Low,Very high,25.25,117.65,heart_102.png
+103,102.43,2.48,153.58,14.85,7.85,3.9,manufacturing,High,Low,Moderate,38.12,105.61,heart_103.png
+113,105.74,2.23,92.43,15.81,7.85,4.3,manufacturing,High,High,Low,28.72,92.68,heart_104.png
+117,117.6,2.37,147.92,16.08,7.3,3.31,administration and governance,Very low,High,Moderate,31.41,91.36,heart_105.png
+80,117.62,2.67,121.4,14.84,7.81,3.29,food production,Very low,Moderate,Moderate,37.76,106.97,heart_106.png
+137,115.1,2.58,122.19,11.96,7.01,4.12,services,Very low,Moderate,Very high,29.39,112.47,heart_107.png
+248,129.9,2.77,121.26,13.04,7.57,5.24,ressource extraction,Low,Very low,Very high,28.35,113.4,heart_108.png
+63,101.88,2.68,86.35,11.25,8.17,3.16,ressource extraction,Very low,Very high,Moderate,29.49,96.57,heart_109.png
+62,97.84,2.36,69.62,13.09,7.81,4.97,services,Very low,High,High,26.47,100.23,heart_110.png
+144,99.93,2.55,139.17,14.36,7.83,5.2,services,Very low,Low,Moderate,35.43,122.24,heart_111.png
+42,90.57,2.55,116.09,12.92,6.89,3.9,food production,Low,Low,Moderate,21.06,68.79,heart_112.png
+131,132.13,2.44,114.02,12.97,7.49,4.17,services,Moderate,Moderate,Very high,31.94,139.17,heart_113.png
+195,114.99,2.4,123.73,11.6,7.59,4.14,food production,Moderate,Moderate,Low,31.37,78.62,heart_114.png
+137,127.33,2.57,111.47,14.43,7.06,4.86,services,Very low,Low,High,25.71,107.41,heart_115.png
+90,104.16,2.69,54.9,14.76,8.08,4.23,food production,Moderate,Moderate,Very low,32.02,103.26,heart_116.png
+136,115.36,2.6,143.05,13.38,7.67,4.35,services,Low,Moderate,High,32.96,111.17,heart_117.png
+174,140.55,2.45,108.04,12.63,7.11,5.31,services,Moderate,High,High,22.94,115.05,heart_118.png
+107,94.99,2.43,44.39,12.46,7.74,5.13,manufacturing,Low,Low,High,20.96,98.12,heart_119.png
+156,103.87,2.38,173.78,13.9,7.03,3.55,administration and governance,Low,Low,High,28.76,95.39,heart_120.png
+81,114.17,2.55,77.82,13.9,7.83,4.39,manufacturing,Low,High,Very low,40.63,73.0,heart_121.png
+129,114.03,2.47,123.56,12.33,8.17,4.68,food production,Low,Very high,High,25.86,142.1,heart_122.png
+117,123.05,2.61,146.61,13.59,6.8,3.84,food production,Moderate,Low,Very low,31.82,87.61,heart_123.png
+137,95.48,2.49,109.89,14.7,7.23,3.33,services,Moderate,High,Low,20.64,100.29,heart_124.png
+89,100.46,2.84,99.41,12.78,8.05,3.79,food production,Very low,Very high,Very high,30.04,127.28,heart_125.png
+133,102.84,2.51,114.19,15.47,8.2,4.55,food production,High,Moderate,Very low,22.19,100.01,heart_126.png
+152,121.67,2.23,140.0,10.28,7.42,3.75,administration and governance,High,High,High,29.19,96.92,heart_127.png
+164,124.13,2.37,108.54,12.96,6.95,4.69,ressource extraction,Very low,Moderate,Very high,36.8,105.37,heart_128.png
+41,132.18,2.61,108.94,14.4,7.5,3.73,food production,Very high,Very high,High,32.14,95.39,heart_129.png
+100,101.6,2.55,100.42,15.12,7.29,4.12,food production,Very low,Moderate,Low,41.84,92.37,heart_130.png
+95,83.72,2.25,79.3,16.98,7.96,4.89,food production,Moderate,Moderate,Low,25.21,93.6,heart_131.png
+266,120.37,2.37,123.06,13.59,7.89,4.73,administration and governance,Very high,Moderate,Low,39.46,115.93,heart_132.png
+185,119.5,2.35,96.06,12.55,7.66,3.84,manufacturing,High,High,Very low,27.46,101.16,heart_133.png
+150,108.31,2.62,146.67,11.39,7.77,5.08,ressource extraction,Very low,Moderate,Moderate,29.62,114.19,heart_134.png
+89,94.91,2.5,102.0,13.55,7.27,4.18,manufacturing,Very low,Very low,Moderate,34.42,100.71,heart_135.png
+130,107.46,2.25,113.65,13.71,7.59,4.67,ressource extraction,High,Very high,Moderate,39.62,120.76,heart_136.png
+47,102.79,2.26,115.76,11.04,7.69,4.6,food production,Very high,Very high,Very low,27.62,99.55,heart_137.png
+219,143.13,2.7,137.0,12.82,7.98,5.2,administration and governance,Low,Moderate,Very high,29.19,137.36,heart_138.png
+172,112.91,2.0,144.11,13.5,7.94,4.35,services,Low,Very low,High,26.68,117.3,heart_139.png
+180,126.51,2.23,127.71,12.47,7.86,5.08,services,Moderate,High,High,31.03,107.69,heart_140.png
+124,97.17,2.4,117.05,14.25,8.03,4.28,services,High,Moderate,Moderate,28.99,108.31,heart_141.png
+132,96.33,2.53,130.21,10.01,7.64,3.93,ressource extraction,High,Very low,Low,27.0,85.68,heart_142.png
+160,112.39,2.47,101.88,14.4,7.62,3.72,ressource extraction,Very low,Low,Very high,32.72,128.79,heart_143.png
+50,91.54,2.42,126.35,13.55,7.59,4.27,services,Very low,Moderate,Moderate,35.52,92.95,heart_144.png
+109,102.39,2.58,96.53,15.21,7.91,4.92,manufacturing,Moderate,High,Very high,20.81,128.37,heart_145.png
+159,112.45,2.43,134.54,13.82,7.9,3.95,services,Low,Moderate,High,29.87,118.74,heart_146.png
+120,99.93,2.61,99.31,14.26,7.81,4.75,craftsmanship,Moderate,High,Low,26.6,77.95,heart_147.png
+116,107.6,2.28,84.98,12.87,8.04,4.35,ressource extraction,Moderate,Moderate,High,38.55,113.57,heart_148.png
+74,90.83,2.13,113.15,14.85,7.59,4.13,craftsmanship,Moderate,Moderate,High,32.91,115.31,heart_149.png
+99,110.49,2.45,103.24,11.92,7.86,3.81,services,Very high,Very high,Very low,20.62,109.01,heart_150.png
+54,104.58,2.49,61.61,12.53,7.22,5.17,food production,Moderate,Moderate,Low,32.03,84.87,heart_151.png
+78,100.09,2.21,123.31,13.68,7.25,4.8,manufacturing,Moderate,Moderate,Moderate,20.29,99.94,heart_152.png
+204,133.41,2.37,150.76,10.31,7.31,4.43,ressource extraction,High,Very high,Very low,31.63,87.3,heart_153.png
+116,91.47,2.45,139.76,14.73,7.64,4.26,ressource extraction,High,Moderate,Very high,25.59,150.11,heart_154.png
+184,118.55,2.43,113.01,14.45,7.17,4.56,services,Very low,Very low,High,27.94,121.12,heart_155.png
+210,119.9,2.42,109.6,11.92,7.61,4.63,craftsmanship,Low,Low,Moderate,29.85,110.71,heart_156.png
+23,107.05,2.51,142.77,12.79,7.76,4.46,food production,Very low,Low,High,25.84,104.08,heart_157.png
+191,129.76,2.54,147.77,11.76,7.81,4.27,services,Low,Moderate,Very high,26.59,145.4,heart_158.png
+143,118.17,2.64,87.21,10.76,7.6,5.05,manufacturing,High,Very high,Very low,30.12,91.21,heart_159.png
+116,105.42,2.46,92.59,15.52,8.05,4.72,services,Moderate,Moderate,Low,31.19,101.52,heart_160.png
+151,95.85,3.09,95.26,9.9,7.7,5.83,craftsmanship,Very high,Moderate,Very low,28.52,100.28,heart_161.png
+191,119.49,2.51,91.69,13.46,7.69,4.63,ressource extraction,Low,Very low,Very high,32.36,111.96,heart_162.png
+154,140.91,2.65,147.05,14.9,7.59,4.79,food production,Very low,Low,Very high,32.03,125.57,heart_163.png
+212,131.77,2.52,122.55,15.78,7.82,4.24,ressource extraction,High,Moderate,Low,36.78,86.18,heart_164.png
+121,137.54,2.44,153.57,13.26,7.94,4.42,services,Moderate,Very high,Low,28.32,95.58,heart_165.png
+132,108.11,2.28,84.81,11.82,7.89,4.61,manufacturing,Very low,High,Moderate,34.13,118.13,heart_166.png
+128,136.17,2.95,140.78,13.37,7.58,3.06,manufacturing,Low,Very high,Very high,24.14,132.36,heart_167.png
+228,125.3,2.36,107.94,10.43,7.16,4.92,food production,Low,Moderate,Very high,25.08,128.27,heart_168.png
+169,103.06,2.37,117.02,13.21,7.67,4.15,ressource extraction,Low,High,Moderate,21.25,105.54,heart_169.png
+54,80.84,2.73,109.27,14.67,7.55,4.44,manufacturing,Very high,Moderate,Low,22.81,96.13,heart_170.png
+233,120.2,2.29,127.01,9.38,7.7,4.85,manufacturing,Moderate,High,Low,26.06,94.99,heart_171.png
+116,105.34,2.42,100.0,11.72,7.97,3.59,services,Low,Very high,Low,26.36,88.69,heart_172.png
+121,142.77,2.48,90.48,15.46,7.1,4.19,ressource extraction,Low,High,Very high,42.59,108.91,heart_173.png
+137,99.18,2.5,90.68,14.08,7.41,4.56,services,Very low,Very high,High,29.62,101.5,heart_174.png
+188,155.3,2.31,151.6,11.83,7.5,3.84,administration and governance,Low,Moderate,Very high,28.06,136.99,heart_175.png
+192,116.2,2.38,118.4,14.39,7.71,3.9,services,High,Very low,Low,29.35,102.61,heart_176.png
+104,114.33,2.35,109.54,15.85,7.66,3.91,manufacturing,Very low,Very high,Very high,23.69,128.45,heart_177.png
+127,105.02,2.52,36.31,15.21,7.44,3.94,food production,High,Very high,Very low,33.16,92.06,heart_178.png
+161,122.86,2.44,101.66,11.58,7.37,4.45,craftsmanship,Very low,Moderate,Very high,34.54,132.65,heart_179.png
+176,123.18,2.48,136.69,12.53,7.53,4.13,administration and governance,Very low,Very high,High,32.33,125.58,heart_180.png
+163,101.8,2.63,106.4,10.65,8.44,5.14,services,Very low,Moderate,Low,28.39,110.21,heart_181.png
+124,119.34,2.88,114.52,14.17,7.81,3.62,ressource extraction,Low,Moderate,Very high,32.48,133.07,heart_182.png
+124,99.93,2.41,108.54,10.54,7.91,4.31,ressource extraction,High,Very low,Moderate,26.01,95.36,heart_183.png
+65,97.88,2.0,106.45,13.45,7.0,4.51,food production,Moderate,Moderate,Low,40.35,90.92,heart_184.png
+75,113.94,2.5,126.7,13.69,7.46,6.17,craftsmanship,Very low,High,Moderate,30.78,82.75,heart_185.png
+144,111.75,2.87,72.32,15.24,8.42,5.49,manufacturing,High,Moderate,Moderate,31.59,128.31,heart_186.png
+92,111.97,2.57,94.47,15.68,7.26,4.69,manufacturing,Very high,Low,Very low,28.65,116.76,heart_187.png
+231,140.42,2.54,117.8,12.98,7.41,4.45,food production,Low,Very low,Moderate,27.99,86.43,heart_188.png
+154,101.13,2.36,117.8,11.23,7.67,5.11,craftsmanship,Very low,Moderate,High,23.47,109.41,heart_189.png
+123,97.56,2.13,140.63,13.36,7.44,3.2,services,Low,Very high,Moderate,28.73,77.61,heart_190.png
+147,98.48,2.58,113.77,13.46,7.35,3.84,services,Low,Very high,Very high,29.44,110.32,heart_191.png
+107,93.95,2.79,110.12,11.44,8.26,5.77,services,Low,Low,Very high,26.79,138.84,heart_192.png
+146,120.99,2.17,92.49,12.89,7.82,4.81,manufacturing,Very low,Very high,Moderate,28.86,93.65,heart_193.png
+107,121.84,2.23,131.41,12.61,7.32,4.65,ressource extraction,Low,Very high,High,21.92,125.66,heart_194.png
+126,119.12,2.17,113.56,13.72,7.72,4.04,manufacturing,Low,High,Very high,30.46,133.54,heart_195.png
+183,110.72,2.45,108.0,14.55,8.1,4.91,services,Moderate,Moderate,Moderate,38.79,112.38,heart_196.png
+207,133.36,2.62,88.26,14.03,7.57,4.7,services,High,Moderate,Moderate,23.24,105.44,heart_197.png
+185,104.22,2.37,126.07,14.91,7.42,4.06,food production,Very high,High,Moderate,33.15,96.78,heart_198.png
+164,105.8,2.4,113.69,14.05,7.58,3.91,manufacturing,Very high,High,Low,30.95,100.86,heart_199.png
+108,131.95,2.46,128.26,14.81,6.76,4.01,ressource extraction,Very low,Moderate,High,29.84,98.62,heart_200.png
+129,96.13,2.75,80.67,11.51,8.0,4.02,food production,High,Moderate,Very low,35.79,91.31,heart_201.png
+158,120.68,2.56,129.81,13.01,7.3,3.81,food production,Very low,High,Very high,35.17,116.02,heart_202.png
+79,93.25,2.2,70.04,14.03,7.73,3.8,food production,Low,Low,Moderate,31.74,101.79,heart_203.png
+44,109.9,2.53,140.5,12.09,7.66,4.27,food production,Low,Moderate,Very high,28.89,114.46,heart_204.png
+100,95.68,2.32,69.55,16.32,7.46,3.55,food production,Low,Moderate,High,34.26,91.45,heart_205.png
+97,93.46,2.75,113.47,11.51,7.69,4.18,food production,Low,Moderate,Low,36.97,105.4,heart_206.png
+106,110.01,2.48,134.3,12.76,6.66,4.1,manufacturing,Moderate,Very high,Low,30.4,96.69,heart_207.png
+147,100.5,2.6,68.14,16.4,7.72,4.73,food production,Very high,Moderate,Low,35.0,99.62,heart_208.png
+59,137.89,2.54,141.87,10.36,7.92,3.7,administration and governance,Very high,Very high,Low,37.04,106.02,heart_209.png
+228,149.5,2.29,124.06,12.61,7.35,3.98,services,Moderate,Moderate,Very high,31.96,117.39,heart_210.png
+159,123.07,2.36,139.24,12.65,7.4,4.57,manufacturing,Low,High,Very high,34.2,122.7,heart_211.png
+104,129.56,2.0,146.69,15.17,7.44,4.36,administration and governance,Very high,Moderate,Very low,37.77,110.38,heart_212.png
+128,109.61,2.48,89.44,11.36,7.33,4.33,administration and governance,Low,Low,Low,26.2,97.2,heart_213.png
+99,97.07,2.55,77.77,12.81,8.03,4.82,manufacturing,Very high,Moderate,Moderate,20.71,96.79,heart_214.png
+107,94.18,1.9,104.83,12.85,7.33,3.44,manufacturing,Very low,Moderate,Moderate,34.88,112.05,heart_215.png
+54,99.11,2.46,126.03,13.65,7.66,4.47,food production,Low,Moderate,Very high,26.48,125.39,heart_216.png
+130,103.71,2.48,109.01,11.37,7.96,5.06,manufacturing,Low,High,Moderate,35.18,129.93,heart_217.png
+60,128.33,2.42,83.72,14.16,7.37,4.23,craftsmanship,Low,Very high,Very high,30.94,110.42,heart_218.png
+155,108.61,2.5,75.25,15.58,7.36,4.43,ressource extraction,Low,Moderate,Low,33.09,63.53,heart_219.png
+148,107.59,2.45,123.79,11.59,7.55,4.51,ressource extraction,Very high,High,Very low,34.39,96.52,heart_220.png
+236,135.96,2.52,117.51,12.98,7.38,4.83,food production,Moderate,Low,High,33.59,104.25,heart_221.png
+204,151.38,2.39,122.15,14.16,7.44,5.07,administration and governance,Moderate,Low,Moderate,28.44,123.58,heart_222.png
+186,115.25,2.45,125.22,13.15,6.98,4.12,ressource extraction,Low,Very high,High,24.88,91.61,heart_223.png
+157,112.79,2.86,96.85,13.99,6.98,3.81,ressource extraction,Very low,High,High,30.21,86.44,heart_224.png
+155,102.11,2.46,54.53,10.26,8.13,4.05,food production,Very low,Low,High,31.75,118.76,heart_225.png
+182,127.51,2.4,141.88,15.36,7.64,4.27,food production,Very low,Moderate,High,37.45,113.73,heart_226.png
+125,119.67,2.44,96.32,11.74,7.41,4.03,administration and governance,High,Moderate,High,31.36,128.44,heart_227.png
+160,123.8,2.08,138.03,10.72,8.22,4.21,services,Low,Very high,Very high,34.21,152.42,heart_228.png
+92,101.94,2.76,91.24,13.63,7.61,3.97,services,Low,Low,Low,24.18,118.68,heart_229.png
+158,106.87,2.29,73.35,14.89,7.0,4.53,services,High,High,Low,34.37,78.41,heart_230.png
+240,154.69,2.53,167.96,14.69,7.7,4.83,manufacturing,Low,High,Very high,29.79,119.02,heart_231.png
+73,100.84,2.53,108.66,12.69,7.43,5.34,food production,Very low,High,Moderate,28.27,90.61,heart_232.png
+110,120.74,2.22,157.37,14.35,7.39,3.97,ressource extraction,Very low,Low,High,29.7,104.41,heart_233.png
+77,109.88,2.6,106.2,14.47,8.19,4.96,administration and governance,Low,Very low,Very high,30.76,144.38,heart_234.png
+197,121.61,2.34,101.8,11.25,7.69,3.32,craftsmanship,Low,Moderate,Very high,24.49,122.68,heart_235.png
+131,113.97,2.2,155.46,14.34,7.91,4.24,craftsmanship,Low,High,Moderate,32.11,113.85,heart_236.png
+134,106.72,2.35,121.92,13.33,8.65,4.31,food production,Low,High,Moderate,35.72,97.29,heart_237.png
+169,138.59,2.73,133.91,14.91,7.95,3.42,services,Very low,Very high,Very high,33.29,158.92,heart_238.png
+76,99.24,2.59,69.67,12.63,6.6,5.12,manufacturing,Moderate,Low,High,30.02,109.51,heart_239.png
+28,104.16,2.07,122.21,15.8,7.33,3.95,food production,High,Low,Low,29.11,79.12,heart_240.png
+117,128.89,2.44,89.4,14.97,7.14,2.69,craftsmanship,Low,Moderate,Very high,36.53,118.45,heart_241.png
+161,109.64,2.24,80.16,12.43,7.56,4.67,food production,Low,Low,Very high,27.87,120.18,heart_242.png
+188,108.57,2.15,123.8,10.91,7.57,4.44,food production,Low,Moderate,Moderate,36.19,75.37,heart_243.png
+96,128.04,2.63,103.69,15.07,6.94,3.85,manufacturing,Very low,Low,Very high,26.05,115.92,heart_244.png
+123,102.82,2.45,64.17,14.03,7.47,3.47,food production,High,High,Moderate,27.72,78.95,heart_245.png
+72,109.03,2.67,126.27,13.61,7.43,5.05,craftsmanship,High,High,High,31.54,86.81,heart_246.png
+86,103.35,2.8,77.35,12.6,7.74,3.7,craftsmanship,Low,Very high,Very low,30.32,90.51,heart_247.png
+29,107.04,2.64,93.94,12.69,8.2,4.6,craftsmanship,High,Moderate,High,38.84,120.37,heart_248.png
+98,102.27,2.38,124.21,14.87,7.95,4.49,ressource extraction,Low,Moderate,Very high,31.33,134.24,heart_249.png
+222,146.15,2.28,126.81,16.75,7.29,4.44,food production,High,High,High,32.18,117.05,heart_250.png
+133,109.4,2.71,118.73,12.4,7.31,3.24,administration and governance,Moderate,High,Low,21.25,102.4,heart_251.png
+117,93.66,2.6,134.77,14.53,7.76,5.74,food production,Low,Low,Very low,24.95,102.63,heart_252.png
+71,108.65,2.34,133.88,15.77,7.88,4.59,manufacturing,Low,High,High,25.25,111.29,heart_253.png
+81,149.52,2.49,152.69,13.08,8.21,3.69,services,Very low,Very high,Very high,34.78,149.0,heart_254.png
+138,119.86,2.05,73.08,14.64,6.83,3.37,food production,Moderate,Very high,Very low,33.02,67.46,heart_255.png
+268,153.24,2.51,145.82,11.81,6.9,4.68,services,Low,High,Low,37.8,87.8,heart_256.png
+47,88.72,2.32,103.1,15.2,7.76,4.41,ressource extraction,Very low,Moderate,Very high,30.34,128.95,heart_257.png
+53,105.86,2.33,88.17,12.89,7.61,4.86,food production,Low,Very high,Very high,24.45,121.7,heart_258.png
+158,101.73,2.21,96.64,13.26,7.72,4.16,food production,Moderate,Very low,Very high,25.47,118.97,heart_259.png
+150,97.24,2.49,70.91,14.54,8.01,4.57,ressource extraction,Very high,Very low,Very low,34.34,102.62,heart_260.png
+128,116.4,2.26,132.91,13.94,7.4,4.52,administration and governance,Very low,High,Very high,29.67,126.5,heart_261.png
+185,109.5,2.28,81.79,16.17,7.99,4.84,manufacturing,Low,Moderate,Very high,23.88,137.73,heart_262.png
+186,111.98,2.44,111.15,14.86,7.52,4.29,food production,High,Moderate,High,25.39,115.77,heart_263.png
+94,106.43,2.57,140.51,12.34,7.32,5.0,services,Low,High,Very high,28.25,129.86,heart_264.png
+96,102.7,2.65,98.76,13.3,7.48,3.53,food production,High,Moderate,Very low,30.06,107.53,heart_265.png
+48,102.99,2.52,74.73,14.41,7.58,4.07,manufacturing,Low,High,Moderate,31.85,106.51,heart_266.png
+95,103.82,2.49,111.36,15.91,7.3,4.24,manufacturing,Very low,High,High,24.85,94.52,heart_267.png
+238,137.46,2.86,118.28,12.51,8.08,4.64,administration and governance,Very low,High,Moderate,32.48,101.0,heart_268.png
+240,146.11,2.55,123.43,12.88,7.79,3.79,manufacturing,Moderate,High,Very high,26.52,140.7,heart_269.png
+146,94.26,2.52,128.14,13.36,7.49,3.97,food production,Very low,Very low,High,27.68,115.47,heart_270.png
+109,113.47,2.17,72.01,13.83,8.16,4.24,food production,Low,Very high,Moderate,26.0,106.23,heart_271.png
+173,102.45,2.41,121.29,14.63,7.7,4.66,food production,Low,Low,Very high,35.51,108.92,heart_272.png
+115,111.5,2.3,111.75,15.07,7.71,4.7,food production,Moderate,Low,Moderate,30.33,90.11,heart_273.png
+127,109.51,2.45,127.94,11.42,7.81,5.49,food production,Very high,Low,Very low,31.82,87.38,heart_274.png
+164,129.28,2.67,97.81,8.94,7.52,4.41,services,High,Moderate,Moderate,33.19,121.46,heart_275.png
+116,91.24,2.43,73.56,12.88,7.06,3.94,food production,High,Moderate,Very low,27.18,85.03,heart_276.png
+115,104.67,2.29,105.14,15.19,7.61,4.21,food production,Low,Very high,Very low,31.99,97.69,heart_277.png
+135,99.44,2.54,91.74,14.74,7.49,4.48,food production,Very low,Low,Low,35.37,112.76,heart_278.png
+176,121.89,2.71,102.0,13.95,7.96,4.31,ressource extraction,Very low,Moderate,Moderate,15.99,103.55,heart_279.png
+86,100.9,2.48,124.05,11.74,7.48,5.57,services,Low,Low,Very low,34.39,111.74,heart_280.png
+166,107.01,2.56,146.98,12.44,7.11,4.74,food production,Moderate,Moderate,Moderate,22.28,91.04,heart_281.png
+162,112.29,2.56,117.01,12.88,7.01,4.36,food production,Very high,Low,Low,35.97,70.41,heart_282.png
+96,97.59,2.41,113.89,14.65,7.06,4.09,food production,Very high,Moderate,Low,28.21,88.75,heart_283.png
+222,127.5,2.94,99.13,14.54,8.68,4.7,ressource extraction,Very low,High,Moderate,27.5,116.08,heart_284.png
+156,107.1,2.58,61.3,12.46,8.31,4.31,food production,Very high,High,Low,27.87,108.57,heart_285.png
+116,108.86,2.26,121.45,12.46,7.93,2.82,food production,High,High,Low,32.57,76.68,heart_286.png
+106,109.34,2.42,112.0,12.48,7.02,4.65,craftsmanship,Very low,Moderate,Very high,31.15,130.28,heart_287.png
+138,119.7,2.5,114.42,14.13,6.73,4.71,services,Moderate,High,Very high,43.09,94.53,heart_288.png
+185,106.28,2.18,85.75,12.05,7.14,4.45,food production,Moderate,Low,Low,29.75,90.37,heart_289.png
+98,99.34,2.21,130.61,12.33,7.87,4.03,administration and governance,Low,Moderate,Very high,31.62,125.34,heart_290.png
+151,107.54,2.43,91.53,13.78,7.87,5.82,food production,Moderate,High,Very high,29.36,136.56,heart_291.png
+101,85.93,2.62,120.26,10.08,8.44,4.1,services,Very low,High,Moderate,34.29,126.46,heart_292.png
+118,111.68,2.66,95.79,14.66,7.37,3.72,services,High,Very high,Low,30.24,102.16,heart_293.png
+120,112.71,2.12,76.67,13.05,6.8,4.22,food production,Low,Moderate,Moderate,34.02,96.6,heart_294.png
+97,97.89,2.23,97.9,14.7,7.33,3.95,services,Moderate,Moderate,Moderate,35.72,96.5,heart_295.png
+155,111.38,2.63,103.07,10.68,7.41,4.75,food production,Low,Very low,Very low,37.03,97.23,heart_296.png
+133,96.2,2.53,126.28,15.68,7.23,4.68,manufacturing,High,Moderate,Moderate,23.58,87.35,heart_297.png
+117,115.85,2.2,165.35,11.76,7.56,5.15,services,Low,Moderate,Very high,31.99,147.31,heart_298.png
+194,123.91,2.63,59.39,14.95,8.07,4.86,services,Low,Moderate,Moderate,22.86,118.43,heart_299.png
+103,109.72,2.57,110.6,13.48,7.69,4.95,manufacturing,Moderate,Low,Very low,37.34,88.99,heart_300.png
+152,93.03,2.3,66.83,10.2,7.51,4.13,food production,Low,Moderate,High,29.07,91.53,heart_301.png
+166,132.12,2.6,138.34,13.55,7.64,4.07,services,Low,Very high,Very high,22.64,134.75,heart_302.png
+218,169.94,2.53,169.36,11.9,6.84,4.46,services,Moderate,Very high,High,24.04,106.39,heart_303.png
+151,99.55,2.0,134.24,13.03,7.97,4.27,ressource extraction,Very low,Moderate,Very high,31.2,128.12,heart_304.png
+180,127.5,2.53,134.03,10.14,7.49,3.13,services,Very high,Very high,Moderate,36.61,103.34,heart_305.png
+86,95.3,2.42,99.0,13.37,7.85,4.32,food production,Moderate,Very high,Very low,30.82,77.18,heart_306.png
+121,107.92,2.78,96.45,16.57,7.77,4.44,ressource extraction,Low,Moderate,Very high,35.95,125.4,heart_307.png
+137,97.27,2.25,100.37,14.12,8.08,5.85,food production,High,Very high,Moderate,27.8,107.91,heart_308.png
+120,96.69,2.43,119.44,14.06,8.13,4.15,ressource extraction,Moderate,Low,Low,22.5,96.43,heart_309.png
+155,111.89,2.55,88.32,11.96,7.81,5.4,ressource extraction,High,High,High,19.51,97.42,heart_310.png
+89,143.79,2.51,152.11,12.83,6.94,4.97,manufacturing,Moderate,Low,High,31.79,106.31,heart_311.png
+33,107.68,2.56,121.45,15.2,7.5,4.39,food production,Very low,Very high,Very high,24.93,117.53,heart_312.png
+159,114.67,2.03,119.81,15.81,7.51,4.27,services,High,Moderate,Low,25.85,95.27,heart_313.png
+90,88.96,2.34,121.82,12.6,7.81,4.89,services,High,High,Very high,37.82,127.86,heart_314.png
+187,117.59,2.47,74.54,14.88,7.94,4.01,food production,Low,Moderate,Very low,34.97,90.67,heart_315.png
+105,101.04,2.26,68.18,11.03,8.1,4.83,food production,Moderate,Moderate,Very low,37.57,98.18,heart_316.png
+90,106.87,2.85,110.14,12.8,7.67,5.61,craftsmanship,Moderate,High,High,25.73,100.48,heart_317.png
+188,121.0,2.56,78.02,11.74,7.34,3.76,food production,Low,Moderate,Moderate,31.97,101.51,heart_318.png
+80,100.3,2.55,105.32,13.14,8.33,4.92,services,Moderate,High,Very low,28.87,118.08,heart_319.png
+197,122.01,2.69,98.15,13.69,7.94,3.7,services,Low,Very high,High,24.87,116.54,heart_320.png
+160,107.96,2.04,128.86,13.21,7.36,5.33,food production,Very high,Moderate,Low,18.86,100.85,heart_321.png
+24,118.27,2.65,133.67,13.2,7.31,5.27,services,Moderate,High,Low,25.11,118.28,heart_322.png
+209,133.19,2.58,105.33,12.57,7.58,3.65,food production,Low,High,Very high,26.91,112.36,heart_323.png
+91,100.3,2.16,55.07,12.15,7.84,3.63,manufacturing,Low,High,Moderate,29.72,121.89,heart_324.png
+180,127.15,2.55,160.2,12.47,8.22,5.48,manufacturing,Very low,Moderate,Very high,31.86,139.2,heart_325.png
+189,113.08,2.51,91.86,11.41,8.56,4.61,food production,Very high,Low,Very low,24.22,88.78,heart_326.png
+99,109.81,2.3,142.45,14.37,6.98,3.73,craftsmanship,High,Moderate,Low,32.82,105.18,heart_327.png
+117,108.2,2.83,105.11,14.17,7.98,4.26,manufacturing,Low,High,High,29.48,113.23,heart_328.png
+155,100.61,2.21,116.25,15.36,7.73,5.08,food production,Low,High,High,33.99,98.13,heart_329.png
+82,103.41,2.68,118.28,11.64,7.43,3.8,manufacturing,Very low,Moderate,Very high,37.43,137.38,heart_330.png
+125,112.53,2.56,107.4,13.26,7.6,3.44,services,Very low,High,High,20.18,113.41,heart_331.png
+194,115.47,2.16,99.68,13.35,7.89,4.28,ressource extraction,Very low,Moderate,Low,31.41,85.02,heart_332.png
+26,109.02,2.65,107.97,10.57,7.87,5.19,food production,Very low,Moderate,Moderate,22.38,89.76,heart_333.png
+34,101.61,2.48,113.51,14.53,7.83,3.61,food production,Low,Low,High,29.85,118.26,heart_334.png
+101,95.08,2.56,134.22,12.39,8.01,4.83,ressource extraction,Low,Moderate,Very high,28.39,126.22,heart_335.png
+139,125.12,2.48,120.35,12.8,7.49,4.29,manufacturing,Very low,Very high,High,29.12,123.06,heart_336.png
+107,112.67,2.62,87.37,14.4,6.98,4.17,manufacturing,Low,Low,High,34.96,118.97,heart_337.png
+60,116.6,2.2,73.18,14.18,7.72,2.95,food production,Very low,Moderate,Very high,27.94,128.3,heart_338.png
+20,103.18,2.54,89.72,13.19,7.4,3.52,ressource extraction,Low,High,Very high,36.06,113.64,heart_339.png
+122,106.27,2.56,124.04,13.25,7.76,3.05,ressource extraction,Moderate,High,Very low,30.08,99.36,heart_340.png
+80,98.19,2.47,111.84,15.74,7.01,4.01,food production,Low,Very high,Low,34.64,95.02,heart_341.png
+106,121.4,2.59,147.55,13.77,7.9,4.66,services,Low,Moderate,Moderate,21.21,117.21,heart_342.png
+84,108.08,2.31,124.23,12.39,7.11,4.76,food production,High,High,Moderate,31.48,99.0,heart_343.png
+137,100.7,2.23,91.89,13.79,7.73,4.14,food production,High,Moderate,High,34.85,107.25,heart_344.png
+129,131.96,2.44,123.39,16.54,7.68,5.0,administration and governance,Low,High,High,31.34,140.09,heart_345.png
+137,110.74,2.47,77.64,8.96,7.12,3.69,ressource extraction,Very high,High,Very low,28.5,85.7,heart_346.png
+202,129.71,2.59,93.73,13.91,7.5,4.99,manufacturing,Very low,Moderate,Moderate,19.65,104.58,heart_347.png
+114,100.49,1.92,104.48,9.52,7.25,4.14,food production,Moderate,Moderate,Very high,25.69,102.82,heart_348.png
+119,100.28,2.47,118.86,12.31,7.72,4.74,services,Very low,Moderate,High,28.05,107.5,heart_349.png
+134,108.39,2.33,132.44,11.97,7.49,4.15,manufacturing,Moderate,High,Very high,24.05,129.31,heart_350.png
+20,112.8,2.46,147.69,13.73,7.18,4.63,food production,Moderate,Very high,Very high,30.84,117.78,heart_351.png
+87,105.12,2.61,107.46,11.27,8.48,4.11,services,Very low,Moderate,Very high,39.67,155.6,heart_352.png
+78,108.89,2.32,86.48,17.66,7.67,3.55,food production,Moderate,High,Low,35.43,108.55,heart_353.png
+245,134.73,2.49,110.32,14.46,7.63,4.53,food production,Very low,Moderate,Moderate,31.75,100.67,heart_354.png
+260,137.45,2.22,124.01,12.58,8.14,4.63,food production,Low,Low,Moderate,28.22,96.3,heart_355.png
+104,101.3,2.58,117.08,11.75,7.37,5.27,services,Very low,Very low,Very high,32.08,129.37,heart_356.png
+26,105.94,3.06,100.01,12.71,8.04,4.6,food production,Low,Very high,Moderate,33.79,90.51,heart_357.png
+159,116.06,2.49,110.21,13.09,7.55,3.37,administration and governance,Low,Moderate,High,33.66,124.83,heart_358.png
+103,100.27,2.3,164.74,14.14,7.44,4.5,food production,Low,Moderate,High,24.29,107.11,heart_359.png
+108,95.48,2.22,120.23,12.23,8.03,4.69,food production,Low,Low,High,27.96,117.07,heart_360.png
+37,100.88,2.57,66.84,14.64,7.07,4.84,ressource extraction,High,High,Low,27.23,100.01,heart_361.png
+118,108.1,2.69,106.66,16.3,8.13,3.71,services,Very low,Moderate,Very high,28.94,129.37,heart_362.png
+121,107.75,2.46,139.7,11.18,8.0,4.69,services,Low,Low,Very high,21.4,132.44,heart_363.png
+136,109.62,2.29,116.18,13.96,8.05,4.15,manufacturing,Low,High,Very high,32.08,122.97,heart_364.png
+167,94.95,2.08,72.18,12.6,8.19,4.81,services,Very high,Moderate,Very low,24.55,113.3,heart_365.png
+95,93.9,2.45,125.91,16.24,7.29,5.16,manufacturing,High,High,Low,32.68,95.75,heart_366.png
+173,113.43,2.16,104.75,13.29,8.06,3.7,ressource extraction,Very high,Moderate,Low,33.03,102.21,heart_367.png
+106,109.65,2.38,109.71,11.97,7.45,3.61,food production,Low,High,Very high,29.25,121.45,heart_368.png
+221,119.43,2.69,90.88,14.21,7.04,3.35,manufacturing,Low,Moderate,Moderate,30.16,91.1,heart_369.png
+145,103.49,2.05,116.95,13.67,6.53,4.56,ressource extraction,Very low,Moderate,Moderate,25.0,95.98,heart_370.png
+120,110.8,2.5,116.43,14.01,8.35,2.77,administration and governance,Low,Very high,Moderate,35.27,118.29,heart_371.png
+80,109.64,2.56,140.02,15.03,7.31,3.54,food production,High,Moderate,High,31.94,97.74,heart_372.png
+108,109.79,2.31,114.65,12.67,7.64,2.75,food production,Low,High,High,26.98,110.86,heart_373.png
+159,97.41,2.32,116.05,14.29,7.99,5.13,food production,Very low,Low,Very high,27.27,126.88,heart_374.png
+76,99.23,2.31,108.19,12.08,7.91,4.46,ressource extraction,Low,Low,Very high,28.05,121.23,heart_375.png
+20,102.46,2.75,85.05,16.23,7.69,4.56,ressource extraction,Very low,Moderate,Very high,25.01,135.73,heart_376.png
+134,107.47,2.44,74.73,13.64,7.68,4.09,services,Very low,Moderate,Very high,25.6,126.97,heart_377.png
+148,86.24,2.32,66.67,13.02,7.8,5.04,food production,Moderate,Very low,Moderate,31.2,82.4,heart_378.png
+56,106.41,2.51,132.0,13.15,7.6,4.91,manufacturing,Very high,Moderate,High,28.4,110.36,heart_379.png
+168,123.93,2.62,76.17,13.53,7.19,2.98,services,Very high,Very high,Low,31.1,100.18,heart_380.png
+119,93.99,2.47,55.94,13.55,7.13,3.99,manufacturing,Very low,Very high,High,32.21,104.3,heart_381.png
+160,110.07,2.49,116.96,15.19,7.71,3.81,food production,Low,Moderate,Very low,18.51,77.84,heart_382.png
+113,103.98,2.75,78.02,14.68,8.3,4.99,manufacturing,Very low,Moderate,Moderate,28.29,97.96,heart_383.png
+124,103.33,2.49,101.57,10.32,8.48,5.17,ressource extraction,Moderate,Moderate,Moderate,39.89,112.16,heart_384.png
+119,92.8,2.52,114.13,12.77,7.78,5.13,ressource extraction,High,Very low,Very high,31.97,104.94,heart_385.png
+123,111.26,2.39,111.22,13.41,7.31,4.46,services,Very low,High,High,36.51,100.95,heart_386.png
+117,101.24,2.88,102.88,12.32,7.18,4.94,ressource extraction,Very low,Low,Very high,29.21,132.31,heart_387.png
+160,106.03,2.33,77.89,10.73,7.31,4.58,ressource extraction,Moderate,Very high,High,39.57,90.22,heart_388.png
+177,119.52,2.46,115.8,14.07,7.56,3.17,services,Low,Moderate,Low,29.42,106.26,heart_389.png
+52,108.54,2.44,101.1,16.8,7.04,3.93,manufacturing,Very high,Very low,Moderate,26.41,87.5,heart_390.png
+110,102.44,2.25,117.19,14.36,6.74,5.52,manufacturing,Low,Moderate,Moderate,27.2,93.33,heart_391.png
+112,98.02,2.36,111.69,13.65,7.91,5.18,food production,Low,High,Low,22.79,73.33,heart_392.png
+65,105.11,2.57,106.06,13.8,7.64,4.37,manufacturing,High,Low,Moderate,26.39,104.41,heart_393.png
+91,103.17,2.54,81.17,12.14,7.49,3.86,ressource extraction,Low,Low,Low,28.56,102.44,heart_394.png
+119,92.48,2.35,75.41,13.78,7.83,5.26,manufacturing,Very low,High,High,33.34,121.4,heart_395.png
+75,97.58,2.37,66.23,14.05,7.55,4.92,ressource extraction,Low,High,Very high,30.61,108.88,heart_396.png
+73,119.59,2.37,148.73,12.64,7.55,2.88,food production,Very low,Moderate,Very high,22.0,117.23,heart_397.png
+110,119.28,2.6,107.48,10.77,7.24,4.19,craftsmanship,Low,Very high,Very high,35.58,129.96,heart_398.png
+183,109.13,2.36,81.15,12.87,8.25,3.9,craftsmanship,High,Low,Very low,34.55,94.85,heart_399.png
+83,105.67,2.67,99.53,13.22,7.74,4.98,craftsmanship,Very high,Low,Very low,27.84,100.9,heart_400.png
+88,109.31,2.47,135.08,11.87,7.92,4.06,manufacturing,High,Moderate,Very high,29.24,131.49,heart_401.png
+155,105.45,2.36,157.16,12.22,7.68,5.39,manufacturing,Very low,Very high,Moderate,24.69,97.88,heart_402.png
+102,101.25,2.48,141.07,12.84,6.91,3.91,craftsmanship,Very low,Moderate,Moderate,25.63,92.88,heart_403.png
+86,114.93,2.26,130.77,12.09,7.79,4.24,food production,Low,Moderate,Very high,23.24,141.16,heart_404.png
+179,114.17,2.57,124.78,15.79,7.96,4.01,food production,Very low,Low,High,27.31,122.82,heart_405.png
+105,95.92,2.42,124.01,11.41,7.46,5.24,food production,Low,Moderate,High,23.07,94.39,heart_406.png
+115,133.96,2.39,158.7,10.9,7.63,4.09,services,Moderate,Moderate,Very low,41.91,86.47,heart_407.png
+20,91.48,2.46,64.74,13.35,7.23,5.05,food production,Very high,Low,Moderate,24.25,95.55,heart_408.png
+128,99.54,2.72,54.91,13.25,7.68,4.61,food production,Very low,Low,Very high,17.03,123.5,heart_409.png
+164,108.64,2.65,138.01,13.19,7.83,3.99,ressource extraction,Low,Moderate,Very high,29.66,127.57,heart_410.png
+226,138.82,2.44,90.54,14.14,7.5,4.58,food production,Moderate,Moderate,High,27.13,108.2,heart_411.png
+192,122.83,2.69,143.25,11.87,7.67,3.21,food production,High,High,Moderate,28.44,98.98,heart_412.png
+104,98.42,2.7,96.67,14.79,7.43,3.82,services,Very low,Moderate,Moderate,32.24,113.51,heart_413.png
+160,119.12,2.05,138.3,14.11,7.63,4.28,food production,Moderate,Low,Low,28.21,106.97,heart_414.png
+132,95.55,2.53,131.4,13.92,8.37,4.6,food production,High,Very low,Very low,25.92,107.62,heart_415.png
+133,100.96,2.58,71.88,13.45,7.72,5.56,manufacturing,Very low,Moderate,Moderate,33.03,97.19,heart_416.png
+115,97.74,2.14,54.58,13.2,7.68,4.44,services,Very low,Very high,High,33.84,99.99,heart_417.png
+219,132.92,2.38,82.24,17.23,8.21,3.96,food production,Very high,Very low,Moderate,36.99,107.28,heart_418.png
+139,108.04,2.41,84.84,13.82,6.98,4.61,food production,Low,Very high,Very low,29.39,100.16,heart_419.png
+85,96.85,2.48,113.05,11.26,7.53,4.43,manufacturing,Moderate,Moderate,Very high,38.61,112.04,heart_420.png
+44,134.81,2.46,108.84,14.89,8.0,2.98,manufacturing,Low,Very high,High,35.38,93.28,heart_421.png
+76,86.75,2.57,63.7,12.36,7.82,3.69,craftsmanship,High,Low,Low,24.01,96.86,heart_422.png
+142,102.44,2.55,113.34,14.34,7.66,4.0,food production,High,Low,Very high,28.58,127.08,heart_423.png
+175,126.47,2.44,95.56,14.76,8.09,2.94,food production,Very high,Low,Moderate,34.39,90.29,heart_424.png
+171,110.58,2.32,102.96,15.31,7.12,5.24,services,Low,Moderate,High,30.79,117.51,heart_425.png
+203,133.1,2.28,90.72,10.83,8.08,4.25,ressource extraction,Low,Very high,High,31.99,112.58,heart_426.png
+130,99.49,2.8,90.64,17.46,8.15,5.36,food production,Low,Moderate,Moderate,25.24,89.05,heart_427.png
+79,119.44,2.34,125.48,14.13,7.81,3.7,services,Moderate,Very low,Very high,34.38,140.92,heart_428.png
+93,103.31,2.5,103.33,14.22,8.09,4.52,manufacturing,Low,Moderate,High,32.3,129.67,heart_429.png
+81,114.58,2.32,140.02,11.83,6.92,5.72,services,Moderate,Very high,Very high,27.86,126.17,heart_430.png
+102,101.52,2.35,89.8,12.74,7.44,4.06,ressource extraction,Low,Moderate,Moderate,35.47,106.02,heart_431.png
+155,102.07,2.38,90.86,14.13,7.59,4.03,manufacturing,High,Moderate,Very low,34.18,95.44,heart_432.png
+143,125.02,2.8,106.53,12.5,7.9,4.36,manufacturing,Very high,High,Very low,25.21,110.41,heart_433.png
+162,112.06,2.43,124.78,14.68,7.53,4.1,services,High,Low,Very low,25.06,107.03,heart_434.png
+181,113.45,2.3,122.94,15.39,7.82,5.02,administration and governance,Low,High,High,31.73,105.86,heart_435.png
+84,95.99,2.49,127.56,16.42,8.54,3.93,services,Very low,Low,Very high,35.62,151.5,heart_436.png
+146,97.1,2.08,129.74,12.62,7.0,4.23,manufacturing,High,Very low,Very low,43.79,89.83,heart_437.png
+111,104.63,2.45,105.7,13.04,7.33,5.08,services,High,Low,Low,35.1,99.61,heart_438.png
+182,108.74,2.27,110.33,13.74,7.54,3.98,administration and governance,Very low,Moderate,High,25.43,106.11,heart_439.png
+255,137.36,2.35,102.69,14.29,7.81,4.37,services,Low,High,Moderate,30.78,106.11,heart_440.png
+96,108.43,2.38,130.81,14.55,7.85,3.58,ressource extraction,Low,Very high,Very high,38.16,120.43,heart_441.png
+91,113.44,2.8,125.21,15.43,7.73,3.26,ressource extraction,Moderate,Moderate,High,31.38,104.2,heart_442.png
+242,133.01,2.35,109.98,12.14,7.12,4.36,food production,Very high,High,Moderate,32.73,95.49,heart_443.png
+157,97.55,2.42,94.56,13.85,7.96,4.54,manufacturing,Moderate,Moderate,Very high,37.08,133.45,heart_444.png
+128,97.23,2.48,122.33,9.44,8.02,4.09,food production,High,Moderate,Low,26.09,102.16,heart_445.png
+133,115.67,2.44,125.56,15.54,7.48,5.02,craftsmanship,Very low,Moderate,Very high,40.57,133.71,heart_446.png
+138,106.21,2.45,142.98,12.87,7.62,5.2,ressource extraction,Low,High,Very high,27.52,112.6,heart_447.png
+187,121.81,2.53,108.64,10.87,7.97,4.54,manufacturing,Low,High,Moderate,22.98,128.82,heart_448.png
+115,110.74,2.59,110.69,14.04,7.37,3.98,manufacturing,Very low,Moderate,High,34.5,107.98,heart_449.png
+170,120.28,2.21,160.8,13.44,8.12,4.05,services,Moderate,High,Very high,35.46,138.12,heart_450.png
+122,104.5,2.43,83.01,10.47,7.57,4.13,food production,High,Moderate,Moderate,37.23,97.91,heart_451.png
+68,100.14,2.31,109.77,11.87,6.54,3.95,services,Moderate,Very low,Moderate,41.04,88.83,heart_452.png
+50,99.98,2.49,130.2,14.51,8.15,4.94,services,Moderate,Low,Low,38.77,113.33,heart_453.png
+147,121.58,2.41,104.21,13.26,7.48,3.05,food production,Very low,High,Very high,29.58,130.25,heart_454.png
+124,91.88,2.24,77.74,14.84,6.92,4.54,food production,Very low,Moderate,High,21.14,100.16,heart_455.png
+112,100.14,2.5,61.32,13.17,7.83,4.18,services,High,Moderate,Moderate,35.17,99.64,heart_456.png
+85,103.49,2.37,144.52,16.24,7.97,4.39,manufacturing,High,Moderate,High,35.31,121.0,heart_457.png
+102,105.41,2.2,74.01,11.52,7.37,4.19,food production,Very low,High,Moderate,27.02,84.71,heart_458.png
+133,106.48,2.52,104.36,12.18,7.94,3.59,food production,High,Very low,Moderate,39.08,98.32,heart_459.png
+141,98.3,2.32,105.53,14.75,7.65,4.34,services,Very low,Very high,Moderate,35.07,92.81,heart_460.png
+162,129.62,2.27,130.29,13.73,7.74,3.47,craftsmanship,Very low,Very high,Very high,31.6,126.88,heart_461.png
+161,107.52,2.41,95.58,11.57,7.89,5.04,services,Very low,High,Very high,39.02,129.68,heart_462.png
+168,120.59,2.45,102.3,12.53,7.35,2.8,manufacturing,High,High,Very low,20.46,101.92,heart_463.png
+107,108.82,2.08,125.8,12.53,7.49,4.31,services,High,High,Low,31.53,87.04,heart_464.png
+131,99.31,2.58,159.73,11.49,6.99,3.91,food production,Moderate,Moderate,Very low,38.79,94.49,heart_465.png
+139,90.92,2.18,115.86,13.44,7.59,4.61,manufacturing,Moderate,Low,Very high,27.52,108.63,heart_466.png
+135,108.96,2.5,94.0,15.23,7.21,4.95,ressource extraction,Very low,High,Very high,33.04,119.86,heart_467.png
+183,130.42,2.44,157.76,14.51,8.0,4.01,craftsmanship,Moderate,Moderate,Very high,37.28,145.51,heart_468.png
+173,111.24,2.88,109.37,13.58,7.33,4.32,ressource extraction,Low,Moderate,High,27.02,109.47,heart_469.png
+123,99.67,2.4,81.2,15.28,7.65,4.67,craftsmanship,Low,Moderate,Moderate,31.07,101.97,heart_470.png
+49,102.4,2.61,101.04,11.28,7.75,4.6,food production,High,Moderate,Very low,28.55,109.43,heart_471.png
+157,100.5,2.8,105.38,12.57,8.04,4.08,administration and governance,Very low,Moderate,Very high,41.05,124.73,heart_472.png
+191,121.31,2.54,86.87,14.4,7.37,4.24,food production,Moderate,Very high,Low,34.74,83.37,heart_473.png
+88,109.89,2.26,128.81,13.06,8.11,4.05,manufacturing,Moderate,Moderate,Moderate,33.0,99.56,heart_474.png
+103,101.43,2.68,96.37,15.62,7.21,4.64,ressource extraction,High,High,Very low,34.15,86.07,heart_475.png
+144,98.36,2.23,122.85,15.74,7.19,4.27,craftsmanship,High,Very low,Very low,33.8,91.68,heart_476.png
+113,91.07,2.51,116.06,12.69,7.41,4.32,food production,Very low,Low,Low,33.08,106.02,heart_477.png
+111,106.65,2.64,81.55,12.64,7.74,4.56,food production,Very high,High,Very low,32.06,92.26,heart_478.png
+118,108.58,2.8,82.12,12.48,7.11,4.63,ressource extraction,Moderate,High,Moderate,32.03,100.22,heart_479.png
+112,112.81,2.4,106.21,16.84,7.55,3.58,manufacturing,Moderate,High,Very high,32.0,123.49,heart_480.png
+124,103.15,2.29,59.57,14.22,7.7,3.79,ressource extraction,Low,Low,High,33.95,104.96,heart_481.png
+219,133.99,2.38,133.5,14.44,7.79,5.36,services,High,Low,Very low,23.77,87.7,heart_482.png
+121,113.95,2.76,104.12,14.43,7.52,4.11,food production,Very low,Low,Very high,25.73,123.79,heart_483.png
+139,96.68,2.66,132.37,14.87,7.39,5.31,food production,High,High,Very high,29.04,102.19,heart_484.png
+161,116.98,2.26,144.25,11.65,7.65,4.74,administration and governance,Very low,High,High,33.44,118.94,heart_485.png
+155,98.75,2.51,103.03,12.09,7.69,3.84,craftsmanship,Moderate,Low,High,24.56,97.8,heart_486.png
+184,132.7,2.36,115.31,13.66,7.62,4.15,administration and governance,Low,Moderate,Very high,27.82,142.88,heart_487.png
+130,109.86,2.62,103.54,12.46,7.89,4.43,craftsmanship,Low,High,Low,30.23,89.62,heart_488.png
+44,104.17,2.39,115.91,15.85,7.39,4.3,food production,Very low,Moderate,Very high,25.98,108.26,heart_489.png
+93,104.98,2.51,128.41,13.64,7.61,3.77,services,Moderate,High,Moderate,19.63,100.61,heart_490.png
+155,119.22,2.12,117.08,15.98,7.43,4.49,services,Low,Very high,Very low,34.75,100.15,heart_491.png
+93,104.44,2.26,112.46,12.17,8.42,4.66,food production,High,Low,Low,25.04,126.83,heart_492.png
+127,112.9,2.41,132.92,13.64,7.9,2.93,craftsmanship,Very low,High,Very high,29.09,117.4,heart_493.png
+175,136.41,2.26,124.37,11.11,8.14,3.94,administration and governance,Very low,Very high,Very high,24.05,158.82,heart_494.png
+152,96.99,2.53,112.3,12.3,7.52,5.1,food production,Very low,High,Moderate,27.15,98.53,heart_495.png
+125,115.91,2.42,138.05,12.18,7.51,3.76,manufacturing,Low,Moderate,High,33.93,116.07,heart_496.png
+175,115.54,2.67,76.73,14.81,6.6,5.15,craftsmanship,Very low,Very low,Very high,29.28,127.68,heart_497.png
+164,121.1,2.59,110.66,13.88,7.47,4.95,food production,Very low,Moderate,High,23.5,101.93,heart_498.png
+81,111.92,2.33,89.36,13.21,7.8,3.59,food production,Moderate,Very high,Low,23.44,111.01,heart_499.png
